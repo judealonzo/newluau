@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Luau/build/cmake_install.cmake",
+		"E:/Luau/build/fuzz/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
